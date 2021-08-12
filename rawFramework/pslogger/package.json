@@ -1,0 +1,11 @@
+{
+    "name": "pslogger",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+      "winston": "~3.1.0"
+    },
+    "author": "apps",
+    "license": "ISC"
+  }
+  
