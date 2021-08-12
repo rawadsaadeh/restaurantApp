@@ -14,7 +14,7 @@ var users = psusers(mongoose);
 
 test('POST user/viewProfile', async () => {
     let res = await getUserProfile("6112c26c08a5721604b8adaa");
-    expect(res).toBe(0);
+    expect(res).toBe(1);
 });
   
 
